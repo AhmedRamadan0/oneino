@@ -1,6 +1,6 @@
 # Oneino
 
-##Features?
+## Features?
 
 - Inbuilt wifi configurator. Connect with home wifi or use as Access Point. Choice is yours.
 - Inbuilt timer to wake a connected device or make it sleep in hours and minutes
